@@ -4,9 +4,9 @@ Inspiration: Google Dino game
 
 https://trex-runner.com/
 
-Click mouse to jump!
-
 My game:
+
+Click the mouse to jump!
 
 <img width="370" alt="截屏2023-10-26 13 24 31" src="https://github.com/mistata/helloworld/assets/145936799/ce5b5f94-38a0-414b-96b2-5da959400580">
 <img width="489" alt="截屏2023-10-26 13 23 58" src="https://github.com/mistata/helloworld/assets/145936799/e02e776e-5914-451c-9243-fa8650de2753">

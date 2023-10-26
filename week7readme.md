@@ -13,3 +13,5 @@ Click the mouse to jump!
 
 The blue square would be a character and the red squares would be obstacles.
 If the character failed to avoid the obstacles, the game ends and if the player wants to start again. Click "play again" to restart.
+
+Demo: https://editor.p5js.org/mistata/sketches/ZOMJyCBip
